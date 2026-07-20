@@ -401,11 +401,7 @@ By combining retail products, professional services, rental commerce, and hyperl
 ## 🔐 Sign In Page
 
 A modern authentication page built using React with a clean UI. Users can securely authenticate using JWT-based login or continue as a guest.
-
-<p align="center">
-<img src="./screenshots/signin.png" width="100%">
-</p>
-
+![Sign In](./screenshots/signin.png)
 ---
 
 ## 🏠 Home Page
