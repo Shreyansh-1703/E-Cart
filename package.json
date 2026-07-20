@@ -1,0 +1,14 @@
+{
+  "name": "e-cart-v2",
+  "version": "2.0.0",
+  "description": "Premium E-Commerce Platform — React + Spring Boot",
+  "scripts": {
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && mvnw spring-boot:run",
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "install-all": "cd frontend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
