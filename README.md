@@ -399,7 +399,7 @@ By combining retail products, professional services, rental commerce, and hyperl
 # 📸 Project Screenshots
 ## Sign In Page
 
-![Sign In](./screenshots/signin.png)
+<img src="../screenshots/signin.png" width="100%">
 ---
 
 ## 🏠 Home Page
