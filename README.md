@@ -396,10 +396,18 @@ This project demonstrates practical experience with:
 By combining retail products, professional services, rental commerce, and hyperlocal logistics into a unified ecosystem, the platform explores a business model that extends beyond traditional marketplaces. Its modular architecture also makes it well-suited for future expansion into cloud-native microservices, AI-powered recommendations, and nationwide logistics integrations.
 
 ---
+<<<<<<< HEAD
+=======
+
+>>>>>>> 48ee210 (Add Dockerfile for Render)
 ## 👨‍💻 Author
 
 **Shreyansh Srivastava**
 
 **Java Full Stack Developer**
 
+<<<<<<< HEAD
 Focused on building scalable, secure, and production-ready applications using Java, Spring Boot, React, and modern software engineering practices.
+=======
+Focused on building scalable, secure, and production-ready applications using Java, Spring Boot, React, and modern software engineering practices.
+>>>>>>> 48ee210 (Add Dockerfile for Render)
